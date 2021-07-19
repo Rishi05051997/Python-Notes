@@ -9,3 +9,17 @@ num.b = 34
 
 s = num.sum()
 print(s)
+
+
+
+'''
+PascalCase
+EmployeeName -->> PascalCase
+
+camelCase
+isNumeric, isFloat -->> camelcase
+
+
+'''
+
+
